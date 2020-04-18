@@ -15,7 +15,7 @@ git clone -- git@github.com:[your-user-name]/webpack-express.git --
 
 `cd` into your new folder and run:
 
-For (Server(Back-end))
+## (Server(Back-end))
 
 - ```npm install```
 - ```npm run build-prod```
